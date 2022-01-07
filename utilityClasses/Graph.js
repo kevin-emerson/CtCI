@@ -1,4 +1,4 @@
-var Graph = function() {
+let Graph = function() {
     this.nodes = {};
 };
 

@@ -1,4 +1,4 @@
-var TreeNode = require("./TreeNode.js");
+let TreeNode = require("./TreeNode.js");
 
 class BinarySearchTree {
     constructor(value) {

@@ -1,4 +1,4 @@
-var LinkedList = require("./LinkedList.js");
+let LinkedList = require("./LinkedList.js");
 
 class Queue {
     constructor() {
